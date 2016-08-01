@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TesteASPNETCoreSQLAzure", "src\TesteASPNETCoreSQLAzure\TesteASPNETCoreSQLAzure.xproj", "{A73F3AD2-18D2-43DD-A31A-E8F594CF5BFA}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TesteASPNETCoreSQLAzure.Scripts", "TesteASPNETCoreSQLAzure.Scripts\TesteASPNETCoreSQLAzure.Scripts.sqlproj", "{8832AB29-904F-46DC-B3FD-EE95CB33B437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,12 @@ Global
 		{A73F3AD2-18D2-43DD-A31A-E8F594CF5BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A73F3AD2-18D2-43DD-A31A-E8F594CF5BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A73F3AD2-18D2-43DD-A31A-E8F594CF5BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8832AB29-904F-46DC-B3FD-EE95CB33B437}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
